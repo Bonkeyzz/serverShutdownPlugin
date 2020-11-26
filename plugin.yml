@@ -1,0 +1,11 @@
+name: serverIdlePoweroff
+version: 1.0
+main: me.Bonkeyzz.shutdownPlugin.Main
+description: Shutdowns the server when no player is online.
+commands:
+   enableautoshutdown:
+      usage: /<command> "true/false"
+      description: Toggles server power off after some time when no player is online.
+   setshutdowntimer:
+      usage: /<command> "<seconds>"
+      description: Sets the amount to wait until the server power offs when no one is connected.
