@@ -1,5 +1,3 @@
-# A plugin that shutdowns the server when no one is online after a specified amount of time.
-
 This plugin was created for my private tekkit server.
 
 Tested minecraft versions: `1.6.4 Cauldron (Tekkit server with Bukkit plugin support)`
