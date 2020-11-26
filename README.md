@@ -1,6 +1,6 @@
 This plugin was created for my private tekkit server.
 
-Tested minecraft versions: `1.6.4 Cauldron (Tekkit server with Bukkit plugin support)`
+Tested minecraft versions: `1.6.4 Cauldron (Tekkit server with Bukkit plugin support), 1.6.4 Bukkit-R2.0`
 
 # Available commands
 
